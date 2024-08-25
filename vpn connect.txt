@@ -1,0 +1,2 @@
+vless://034e8d49-face-4ae0-8e30-58a93b6343df@speedtest.net:80?path=%2F&security=none&encryption=none&alpn=h3,h2,http/1.1&host=cv4.ir&fp=chrome&type=ws&sni=speedtest.net#vpn
+vless://034e8d49-face-4ae0-8e30-58a93b6343df@speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cv4.ir&fp=chrome&type=ws&sni=speedtest.net#vpn
